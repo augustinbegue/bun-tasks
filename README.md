@@ -1,20 +1,16 @@
-# bun-queue
+# bun-tasks
 
-A queue implementation using Bun runtime.
+A queue implementation using the Bun runtime.
 
 ## Installation
 
 ```bash
-bun add bun-queue
+bun add bun-tasks
 ```
 
 ## Usage
 
-```typescript
-import { Queue } from "bun-queue";
-
-const queue = new Queue();
-```
+Coming soon...
 
 ## Development
 
